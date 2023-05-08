@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### First and Last Name:Laura Carlota Loyola Perezagua
+### University Registration Number: dpsd22901
+### GitHub Personal Profile: https://github.com/LauraCLP
+### Digital-Storytelling-Individual-Assignment: https://github.com/LauraCLP/Digital-Storytelling-Individual-Assignment/edit/main/my_report/README.md
 
 # Introduction
 
